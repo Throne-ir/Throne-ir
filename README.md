@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**Throne-ir/Throne-ir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<# 👋 Hi, I'm Amirali (Throne-ir)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 **White-hat Hacker & Developer** | 🇮🇷 Based in Iran
+
+I'm passionate about cybersecurity, web development, and building practical tools. Currently focusing on Python automation and secure coding practices.
+
+## 🛠️ Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Port Scanner](https://github.com/Throne-ir/port-scanner)** | A lightweight network tool for identifying open ports and potential vulnerabilities. | `Python` `Socket` |
+| **[Password Generator](https://github.com/Throne-ir/password-generator)** | Secure command-line tool for generating strong, random passwords with customizable options. | `Python` `Argparse` |
+| **[Web Scraper](https://github.com/Throne-ir/web-scraper)** | An automated tool for extracting product data and tracking prices from e-commerce sites. | `Python` `BeautifulSoup` |
+
+## 🚀 Current Focus
+- 🌱 Learning advanced web security techniques
+- 📝 Building a portfolio of practical security tools
+- 💼 Preparing for freelance opportunities in development and security
+
+## 📫 Connect with me
+- **Email:** amir.beta97@gmail.com
+- **GitHub:** [@Throne-ir](https://github.com/Throne-ir)
+
+my site 🌐 : https://Strategicgame.ir
+
+---
+*Built with ☕, Python and other languages*
