@@ -28,7 +28,7 @@ Passionate about building high-performance, secure systems using Go, Python, and
 ---
 
 ## 📈 GitHub Stats
-![Throne-ir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Throne-ir&show_icons=true&theme=radical)
+![Throne-ir's GitHub stats](https://github.com/Throne-ir)
 
 ---
 
