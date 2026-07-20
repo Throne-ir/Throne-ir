@@ -33,7 +33,7 @@ Passionate about building high-performance, secure systems using Go, Python, and
 ---
 
 ## 📫 Connect with me
-*   **LinkedIn:** [Amirali Bozorgizadeh](https://www.linkedin.com/in/amirali-bozorgizadeh/)
+*   **LinkedIn:** [Amirali Bozorgizadeh](https://www.linkedin.com/in/throne-ir?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 *   **Email:** amir.beta97@gmail.com
 
 > *"Security is not a product, but a process."*
