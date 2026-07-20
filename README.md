@@ -1,29 +1,39 @@
 
+# Hi there, I'm Throne-ir 👋
 
-<# 👋 Hi, I'm Amirali (Throne-ir)
+### 🛡️ Security Engineer & Web Developer
+Passionate about building high-performance, secure systems using Go, Python, and modern architectures. I focus on clean code, threat intelligence, and scalable microservices.
 
-🔐 **White-hat Hacker & Developer** | 🇮🇷 Based in Iran
+---
 
-I'm passionate about cybersecurity, web development, and building practical tools. Currently focusing on Python automation and secure coding practices.
-
-## 🛠️ Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Port Scanner](https://github.com/Throne-ir/port-scanner)** | A lightweight network tool for identifying open ports and potential vulnerabilities. | `Python` `Socket` |
-| **[Password Generator](https://github.com/Throne-ir/password-generator)** | Secure command-line tool for generating strong, random passwords with customizable options. | `Python` `Argparse` |
-| **[Web Scraper](https://github.com/Throne-ir/web-scraper)** | An automated tool for extracting product data and tracking prices from e-commerce sites. | `Python` `BeautifulSoup` |
+| **[AegisLink](https://github.com/Throne-ir/aegislink)** | High-Performance Threat Intelligence Gateway with Redis caching and embedded UI. | Go, Redis, Docker |
+| **[SecurePoly](https://github.com/Throne-ir/secure-poly-gateway)** | Extensible API Gateway built for microservices with hot-swappable security logic. | Go, Python, Docker |
+| **[OSINT-Phone-Lookup](https://github.com/Throne-ir/OSINT-Phone-Lookup)** | Advanced OSINT tool for digital footprint analysis and phone number intelligence. | Python, APIs |
+| **[Port Scanner](https://github.com/Throne-ir/port-scanner)** | High-speed network port scanner built for efficiency and detailed reporting. | Go, Networking |
 
-## 🚀 Current Focus
-- 🌱 Learning advanced web security techniques
-- 📝 Building a portfolio of practical security tools
-- 💼 Preparing for freelance opportunities in development and security
-
-## 📫 Connect with me
-- **Email:** amir.beta97@gmail.com
-- **GitHub:** [@Throne-ir](https://github.com/Throne-ir)
-
-my site 🌐 : https://Strategicgame.ir
 
 ---
-*Built with ☕, Python and other languages*
+
+## 🛠️ Tech Stack & Tools
+
+*   **Languages:** Go (Golang), Python, JavaScript, PHP
+*   **Security:** Threat Intelligence, API Security, White-hat Hacking, OSINT
+*   **Infrastructure:** Docker, Redis, Linux (Termux), Nginx
+*   **Concepts:** Clean Architecture, Microservices, Concurrency, RESTful APIs
+
+---
+
+## 📈 GitHub Stats
+![Throne-ir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Throne-ir&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect with me
+*   **LinkedIn:** [Amirali Bozorgizadeh](https://www.linkedin.com/in/amirali-bozorgizadeh/)
+*   **Email:** amir.beta97@gmail.com
+
+> *"Security is not a product, but a process."*
